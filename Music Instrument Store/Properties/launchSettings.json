@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Music Instruments System": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Collage\\Three Year\\Summaries-Semester One\\.Projects\\Music Insturment Store\\Music Instrument Store",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}

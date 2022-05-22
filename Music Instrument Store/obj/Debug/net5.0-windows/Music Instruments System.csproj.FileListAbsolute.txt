@@ -1,0 +1,99 @@
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.exe
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.deps.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.dev.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\ref\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\Music Instruments System.pdb
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.csproj.AssemblyReference.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Billing.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Dashboard.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Panel.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Login.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Products.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Properties.Resources.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Users.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.csproj.GenerateResource.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfoInputs.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfo.cs
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.csproj.CoreCompileInputs.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\ref\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.pdb
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.genruntimeconfig.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Store.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Clients.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Jewellery\Jewellery Shop System\obj\Debug\net5.0-windows\Music Instruments System.csproj.CopyComplete
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.exe
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.deps.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.dev.json
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\ref\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.pdb
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.AssemblyReference.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Billing.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Clients.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Dashboard.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Login.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Products.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Properties.Resources.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Store.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Users.resources
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.GenerateResource.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfoInputs.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfo.cs
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.CoreCompileInputs.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.CopyComplete
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\ref\Music Instruments System.dll
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.pdb
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.genruntimeconfig.cache
+D:\Collage\Three Year\Summaries-Semester One\.Projects\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.LoadingPanel.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.exe
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.deps.json
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.json
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.runtimeconfig.dev.json
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\ref\Music Instruments System.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\Music Instruments System.pdb
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csprojAssemblyReference.cache
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Billing.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Clients.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Dashboard.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.LoadingPanel.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Login.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Products.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Properties.Resources.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Store.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Dental_Clinic_Managment_System.Users.resources
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.GenerateResource.cache
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfoInputs.cache
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.AssemblyInfo.cs
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.CoreCompileInputs.cache
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.csproj.CopyComplete
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\ref\Music Instruments System.dll
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.pdb
+C:\Users\SaRa Ali\Desktop\Music Insturment Store\Music Instrument Store\obj\Debug\net5.0-windows\Music Instruments System.genruntimeconfig.cache
